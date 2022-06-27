@@ -21,5 +21,14 @@
     "nodemailer": "^6.7.5",
     "nodemon": "^2.0.18",
     "randomstring": "^1.2.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shoukathsandy/CRM_server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shoukathsandy/CRM_server/issues"
+  },
+  "homepage": "https://github.com/Shoukathsandy/CRM_server#readme"
 }
